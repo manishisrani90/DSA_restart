@@ -1,0 +1,5 @@
+git status
+git add filename.cpp
+git status
+git commit -m "Added new solution"
+git push
